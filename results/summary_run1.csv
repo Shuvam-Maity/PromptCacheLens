@@ -1,0 +1,4 @@
+condition,questions,cache_hit_rate_pct,tokens_reused,tokens_processed_fresh,first_hit_at_question,input_cost_savings_pct,cost_per_1000_questions_usd,avg_latency_s
+cached,10,19.43975700303746,9216,38192,6.0,9.71987850151873,0.4561799999999999,25.49490441000671
+forced_miss,10,0.0,0,47424,,0.0,0.49704000000000004,45.92955608999473
+no_cache_model,10,0.0,0,52318,,,0.0,32.4903144099866

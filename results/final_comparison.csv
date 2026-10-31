@@ -1,0 +1,9 @@
+source,condition,questions,requests_with_hit,request_hit_rate_pct,token_hit_rate_pct,tokens_reused,tokens_processed_fresh,first_hit_at_question
+Groq run 1 (long doc),cached,10,2,20.0,19.43975700303746,9216,38192,6.0
+Groq run 1 (long doc),forced_miss,10,0,0.0,0.0,0,47424,
+Groq run 1 (long doc),no_cache_model,10,0,0.0,0.0,0,52318,
+Groq run 2 (short doc),cached,10,1,10.0,9.73828362751065,2560,23728,7.0
+Groq run 2 (short doc),forced_miss,10,0,0.0,0.0,0,26293,
+Groq run 2 (short doc),no_cache_model,10,0,0.0,0.0,0,29148,
+Local CPU (short doc),local_no_cache,10,0,0.0,0.0,0,28638,
+Local CPU (short doc),local_cached,10,9,90.0,89.44060339409177,25614,3024,2.0

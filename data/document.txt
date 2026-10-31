@@ -1,0 +1,93 @@
+MERIDIAN INDUSTRIAL HOLDINGS LIMITED
+MANAGEMENT DISCUSSION AND ANALYSIS
+Financial year ended 31 March 2026 (FY2026)
+
+All amounts are in Indian rupees crore unless stated otherwise. This is a fictional document created for software testing.
+
+1. OVERVIEW AND BUSINESS ENVIRONMENT
+
+Meridian Industrial Holdings Limited is a diversified industrial group with four business segments: Industrial Automation, Specialty Chemicals, Renewable Energy Services, and Logistics and Warehousing. The group operates 14 manufacturing and service sites across India, employs about 9,600 people, and serves customers in 22 countries.
+
+FY2026 was a year of steady domestic demand and a supportive manufacturing investment cycle. The Indian economy grew at roughly 6.8 percent. Input costs eased during the first half of the year and firmed again in the fourth quarter as crude oil linked feedstock prices recovered. The rupee depreciated about 3.1 percent against the US dollar over the year, which helped export realizations but raised the cost of imported raw materials. Management focused on three priorities during the year: growing the higher margin automation and renewable businesses, improving working capital, and reducing debt.
+
+2. REVENUE PERFORMANCE
+
+Total revenue for FY2026 was 8,420, compared with 7,650 in FY2025, an increase of 10.1 percent. Volume growth contributed about 7.4 percentage points of the increase and price and mix improvements contributed about 2.7 percentage points. Domestic sales made up 76 percent of revenue and exports made up 24 percent, compared with 77 percent and 23 percent in the previous year.
+
+Revenue grew through the year. Quarterly revenue was 1,950 in the first quarter, 2,030 in the second quarter, 2,150 in the third quarter, and 2,290 in the fourth quarter. The fourth quarter was the strongest in the company's history, supported by the delivery of a large backlog of automation orders and the commissioning of several renewable service contracts.
+
+The group's main sources of revenue are the sale of automation equipment and systems, the sale of specialty chemical products, recurring operations and maintenance services for solar and wind assets, and fees from warehousing and transport services.
+
+3. SEGMENT REVIEW
+
+Industrial Automation was the largest segment. Revenue rose 16.3 percent to 3,350 from 2,880. Segment EBITDA was 680, giving a margin of 20.3 percent compared with 18.8 percent in the previous year. Growth came from robotics and control systems sold to automotive, electronics, and food processing customers. The order book at year end stood at 2,900, up 22 percent over the year. Better pricing discipline and a richer product mix lifted the margin.
+
+Renewable Energy Services was the fastest growing segment. Revenue rose 26.2 percent to 1,640 from 1,300. Segment EBITDA was 295, a margin of 18.0 percent compared with 15.8 percent last year. The segment added 1.9 gigawatts of solar and wind assets under long term operations and maintenance contracts, taking the total managed portfolio to 7.4 gigawatts. Recurring service revenue provides good visibility and stable margins.
+
+Specialty Chemicals was the weakest segment. Revenue declined 2.2 percent to 2,260 from 2,310. Segment EBITDA fell to 285 from 355, and the margin dropped to 12.6 percent from 15.4 percent. The decline was caused by weak pricing in commodity grade products, higher feedstock costs in the fourth quarter, and a three week planned shutdown at the Vadodara plant for environmental upgrades. Management has begun exiting low margin commodity grades and shifting capacity to higher value specialty products.
+
+Logistics and Warehousing was broadly flat. Revenue rose 0.9 percent to 1,170 from 1,160. Segment EBITDA improved to 170 from 125, and the margin rose to 14.5 percent from 10.8 percent, helped by higher warehouse utilization of 86 percent compared with 79 percent, and by route optimization that reduced empty trips. Revenue growth was held back by the loss of one large retail customer in the second quarter.
+
+4. OPERATING COSTS
+
+Total operating costs before depreciation were 6,990 in FY2026, compared with 6,425 in FY2025.
+
+Raw material costs were 3,790, or 45.0 percent of revenue, compared with 3,520 or 46.0 percent in the previous year. The improvement came from favorable purchasing in the first half and a higher share of automation revenue, which has lower material intensity.
+
+Employee costs were 1,260, or 15.0 percent of revenue, compared with 1,130 or 14.8 percent. Average wage increases were 8.5 percent and headcount rose to 9,600 from 9,150, mostly in automation engineering and renewable field service teams. Employee attrition was 14.2 percent, compared with 15.6 percent last year.
+
+Other operating expenses were 1,940, or 23.0 percent of revenue, compared with 1,775 or 23.2 percent. This line includes power and fuel of 520, freight and distribution of 410, repairs and maintenance of 330, and other expenses of 680. Power and fuel was the biggest pressure point because of higher grid tariffs at the chemicals sites. The biggest operating expense overall is raw materials, followed by other operating expenses and employee costs.
+
+5. PROFITABILITY
+
+EBITDA was 1,430 compared with 1,225 last year, an increase of 16.7 percent. The EBITDA margin improved to 17.0 percent from 16.0 percent. The margin improved steadily during the year, from 16.2 percent in the first quarter to 16.8 percent, 17.4 percent, and 17.5 percent in the following quarters.
+
+Depreciation and amortization was 410, up from 385 because of new capacity added in automation and logistics. Operating profit (EBIT) was therefore 1,020, compared with 840 in FY2025.
+
+Finance costs fell 14.5 percent to 265 from 310, as a result of lower borrowings and a lower average cost of debt. Profit before tax rose 42.5 percent to 755 from 530.
+
+Tax expense was 189, an effective rate of 25.0 percent, compared with 130 or 24.5 percent last year. Profit after tax was 566, up 41.5 percent from 400. The net profit margin improved to 6.7 percent from 5.2 percent. Earnings per share were 5.66 compared with 4.00. Return on capital employed improved to 16.4 percent from 13.1 percent, and return on equity improved to 15.2 percent from 11.8 percent.
+
+Profitability has therefore improved strongly for two reasons: higher margins in automation and renewables, and sharply lower interest costs. Chemicals was the only segment where profitability declined.
+
+6. CASH FLOW AND LIQUIDITY
+
+Cash generated from operating activities was 1,180, compared with 905 in FY2025. Working capital discipline helped: receivable days improved to 68 from 74 and inventory days improved to 52 from 57.
+
+Capital expenditure was 640, compared with 720 last year, and was directed mainly to the new automation assembly line, warehouse automation, and environmental upgrades at the chemicals plants. Free cash flow, defined as operating cash flow less capital expenditure, was 540, compared with 185 in the previous year.
+
+The group also received 350 from the sale of a non-core property and the divestment of a minority investment. Cash outflows included net debt repayment of 530 and dividends of 100. Cash and cash equivalents at year end were 780, compared with 520 at the start of the year. In addition, the group has 1,150 of undrawn, sanctioned working capital lines, so liquidity is comfortable. Management believes that internal cash flows and available facilities are sufficient to fund planned capital expenditure and debt service for the next twelve months.
+
+7. BORROWINGS AND CAPITAL STRUCTURE
+
+Gross borrowings fell to 2,730 from 3,260, a reduction of 530. The debt consists of term loans of 1,850, non-convertible debentures of 600, and working capital borrowings of 280. The debentures carry a coupon of 8.6 percent and mature in September 2028. The weighted average cost of borrowing was 8.8 percent, down from 9.4 percent last year.
+
+Net debt, which is gross borrowings less cash, was 1,950, compared with 2,740 a year earlier, a reduction of 790. Net debt to EBITDA improved to 1.36 times from 2.24 times. Interest cover, measured as EBITDA divided by finance costs, rose to 5.4 times from 3.95 times. In January 2026 the group's credit rating was upgraded to AA from AA-, which is expected to lower future borrowing costs.
+
+The board has proposed a dividend of 1.50 per share for FY2026, compared with 1.00 per share for FY2025.
+
+8. RISKS AND CONCERNS
+
+Raw material price volatility is the most significant risk. Specialty chemicals feedstock is linked to crude oil, and a sharp rise in prices can compress margins faster than the group can pass costs on to customers.
+
+Foreign exchange risk arises because about 28 percent of raw material purchases are imported while 24 percent of revenue comes from exports. The group hedges roughly 60 percent of its net exposure, so large currency swings can still affect profit.
+
+Customer concentration is a concern. The five largest customers contributed 31 percent of revenue, and the loss of a large retail customer in logistics showed how a single departure can affect a segment.
+
+Regulatory and environmental risk is material in chemicals. Stricter emission and effluent standards could require additional capital spending, and a compliance failure could lead to plant shutdowns or penalties.
+
+Execution risk exists in renewable services, where fast growth depends on hiring and training field technicians and on keeping asset availability above contractual thresholds.
+
+Interest rate risk has fallen with lower debt, but about 55 percent of borrowings carry floating rates. Other risks include supply chain disruption, cyber security threats to plant control systems, talent attrition in engineering roles, and changes in trade tariffs that could affect export markets.
+
+9. STRATEGY AND OUTLOOK
+
+For FY2027, management plans capital expenditure of about 800. Around 40 percent will go to automation capacity, 25 percent to renewable service equipment and digital monitoring, 20 percent to restructuring chemicals capacity toward specialty grades, and 15 percent to warehouse automation.
+
+The main strategic initiatives are: expanding automation into the medical devices and semiconductor equipment markets, adding battery storage operations and maintenance to the renewable services offering, exiting commodity chemical grades that earn below 10 percent EBITDA margin, and automating three more warehouses to raise utilization above 90 percent.
+
+Management expects revenue growth of 12 to 14 percent in FY2027, an EBITDA margin above 18 percent, and net debt to EBITDA below 1.0 times by the end of FY2028. The company intends to keep its dividend payout at about 25 to 30 percent of profit after tax while giving priority to debt reduction and growth investment.
+
+10. KEY FINANCIAL HIGHLIGHTS
+
+Revenue grew 10.1 percent to 8,420. EBITDA rose 16.7 percent to 1,430 and the margin improved to 17.0 percent. Profit after tax rose 41.5 percent to 566. Free cash flow was 540, nearly three times the previous year. Net debt fell by 790 to 1,950 and net debt to EBITDA improved to 1.36 times. Industrial Automation and Renewable Energy Services were the best performing segments, while Specialty Chemicals declined in both revenue and margin and Logistics was flat on revenue but improved on margin.

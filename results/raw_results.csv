@@ -1,0 +1,250 @@
+prompt_tokens,completion_tokens,cached_tokens,wall_time_s,answer,condition,model,q_index
+4743,146,0,1.8284290000447072,"The document lists the following as the group’s main sources of revenue:
+
+1. **Sale of automation equipment and systems**  
+2. **Sale of specialty chemical products**  
+3. **Recurring operations and maintenance services for solar and wind assets**  
+4. **Fees from warehousing and transport services**",cached,openai/gpt-oss-20b,1
+4742,127,0,14.164541600039229,"Total revenue rose by **10.1 %** in FY2026, increasing from ₹7,650 crore in FY2025 to ₹8,420 crore.",cached,openai/gpt-oss-20b,2
+4739,253,0,35.53095879999455,"The report identifies **raw material costs** as the largest operating expense, followed by **other operating expenses** (which include power and fuel, freight and distribution, repairs and maintenance, and miscellaneous costs), and then **employee costs**.",cached,openai/gpt-oss-20b,3
+4738,644,0,36.57917039998574,"**Risks identified by Meridian Industrial Holdings Limited**
+
+| Category | Specific risk identified |
+|----------|--------------------------|
+| **Commodity / input‑cost risk** | Raw‑material price volatility – especially for specialty‑chemical feedstock linked to crude oil. |
+| **Currency risk** | Foreign‑exchange exposure (≈ 28 % of raw‑material purchases imported, ≈ 24 % of revenue from exports). The group hedges ~60 % of net exposure, but large swings can still affect profit. |
+| **Customer concentration** | Five largest customers account for 31 % of revenue; loss of a large retail customer in logistics showed the impact of a single departure. |
+| **Regulatory / environmental risk** | Stricter emission and effluent standards at chemicals plants could require additional capital spending; non‑compliance could lead to shutdowns or penalties. |
+| **Execution risk** | Rapid growth in renewable services depends on hiring/training field technicians and maintaining asset availability above contractual thresholds. |
+| **Interest‑rate risk** | About 55 % of borrowings carry floating rates; a 100‑basis‑point rise in rates would increase finance costs by ~15 cr. |
+| **Supply‑chain risk** | Potential disruptions in the supply chain for components and raw materials. |
+| **Cyber‑security risk** | Threats to plant control systems. |
+| **Talent risk** | Attrition in engineering roles, especially junior automation engineers. |
+| **Trade‑tariff risk** | Changes in trade tariffs that could affect export markets. |
+
+These are the risks and concerns explicitly listed in the Management Discussion and Analysis.",cached,openai/gpt-oss-20b,4
+4741,664,0,37.60350869997637,"The document shows a clear **upward trend in profitability** for FY 2026:
+
+| Metric | FY 2025 | FY 2026 | Trend |
+|--------|---------|---------|-------|
+| **EBITDA** | 1,225 cr | 1,430 cr | +16.7 % |
+| **EBITDA margin** | 16.0 % | 17.0 % | +1.0 pp |
+| **Operating profit (EBIT)** | 840 cr | 1,020 cr | +21.4 % |
+| **Finance costs** | 310 cr | 265 cr | –14.5 % |
+| **Profit before tax** | 530 cr | 755 cr | +42.5 % |
+| **Tax expense** | 130 cr | 189 cr | +45.4 % |
+| **Profit after tax** | 400 cr | 566 cr | +41.5 % |
+| **Net profit margin** | 5.2 % | 6.7 % | +1.5 pp |
+| **Return on capital employed** | 13.1 % | 16.4 % | +3.3 pp |
+| **Return on equity** | 11.8 % | 15.2 % | +3.4 pp |
+
+**Key drivers of the trend**
+
+* Higher margins in the Industrial Automation and Renewable Energy Services segments (automation EBITDA margin rose to 20.3 %, renewables to 18.0 %).
+* Lower finance costs due to reduced borrowings and a lower weighted‑average cost of debt (8.8 % vs. 9.4 %).
+* Improved working‑capital discipline and a stronger operating cash flow (1,180 cr vs. 905 cr).
+
+The only segment that saw a decline in profitability was Specialty Chemicals, where revenue and margin fell. Overall, the group’s profitability has improved markedly across the board.",cached,openai/gpt-oss-20b,5
+4742,514,4608,40.47356040001614,"**Cash flow and liquidity – key points from the document**
+
+| Item | FY2026 figures (₹ crore) | FY2025 figures (₹ crore) | Comment |
+|------|--------------------------|--------------------------|---------|
+| Cash generated from operating activities | 1,180 | 905 | Up 30 % |
+| Capital expenditure | 640 | 720 | Down 11 % |
+| Free cash flow (operating cash – capex) | 540 | 185 | Nearly three‑times FY2025 |
+| Net debt repayment | 530 | – | Cash outflow |
+| Dividends | 100 | – | Cash outflow |
+| Cash and cash equivalents at year‑end | 780 | 520 | Up 50 % |
+| Undrawn, sanctioned working‑capital lines | 1,150 | – | Available liquidity |
+| Net debt (gross borrowings – cash) | 1,950 | 2,740 | Down 790 |
+| Net debt to EBITDA | 1.36× | 2.24× | Improved |
+| Interest cover (EBITDA ÷ finance costs) | 5.4× | 3.95× | Improved |
+
+**Highlights**
+
+* Working‑capital discipline improved: receivable days fell to 68 from 74 and inventory days to 52 from 57.  
+* Cash flow from operations was strong enough to fund the 640 ₹ crore capex and still leave 540 ₹ crore as free cash flow.  
+* Net debt fell by 790 ₹ crore, and the group’s liquidity position is described as “comfortable” because of the 1,150 ₹ crore of undrawn working‑capital lines.  
+* Management believes internal cash flows and available facilities are sufficient to fund planned capital expenditure and debt service for the next twelve months.",cached,openai/gpt-oss-20b,6
+4739,800,4608,4.636149799975101,,cached,openai/gpt-oss-20b,7
+4740,800,0,7.083860700018704,,cached,openai/gpt-oss-20b,8
+4742,196,0,40.46976840001298,"**Best‑performing segments**  
+- **Industrial Automation** – revenue rose 16.3 % and EBITDA margin improved to 20.3 %.  
+- **Renewable Energy Services** – revenue rose 26.2 % and EBITDA margin improved to 18.0 %.  
+
+**Worst‑performing segment**  
+- **Specialty Chemicals** – revenue fell 2.2 % and EBITDA margin dropped to 12.6 %.",cached,openai/gpt-oss-20b,9
+4742,362,0,36.579096300003584,"Revenue rose 10.1 percent to ₹8,420 crore, while EBITDA climbed 16.7 percent to ₹1,430 crore, lifting the margin to 17.0 percent and profit after tax up 41.5 percent to ₹566 crore. Free cash flow surged to ₹540 crore, and net debt fell by ₹790 crore to ₹1,950 crore, improving the net debt‑to‑EBITDA ratio to 1.36×. These gains were driven by higher margins in automation and renewables and sharply lower interest costs.",cached,openai/gpt-oss-20b,10
+4745,150,0,36.27688409999246,"The document lists the following as the group’s main sources of revenue:
+
+1. Sale of automation equipment and systems  
+2. Sale of specialty chemical products  
+3. Recurring operations and maintenance services for solar and wind assets (renewable energy services)  
+4. Fees from warehousing and transport services (logistics and warehousing)",forced_miss,openai/gpt-oss-20b,1
+4742,124,0,36.168081799987704,"Total revenue rose by 10.1 percent, increasing from ₹7,650 crore in FY2025 to ₹8,420 crore in FY2026.",forced_miss,openai/gpt-oss-20b,2
+4738,334,0,35.45583909994457,"The document identifies **raw material costs** as the largest operating expense for FY 2026, amounting to ₹3,790 crore (45 % of revenue).  The next largest categories are:
+
+1. **Other operating expenses** – ₹1,940 crore (23 % of revenue), which include power & fuel, freight & distribution, repairs & maintenance, and other costs.  
+2. **Employee costs** – ₹1,260 crore (15 % of revenue).  
+
+Thus, raw material costs are the biggest operating expense, followed by other operating expenses and employee costs.",forced_miss,openai/gpt-oss-20b,3
+4741,649,0,38.31825120002031,"**Risks identified by Meridian Industrial Holdings Limited**
+
+| Category | Specific risk identified |
+|----------|--------------------------|
+| **Commodity / input‑cost risk** | Raw‑material price volatility – especially for specialty‑chemical feedstock linked to crude oil. |
+| **Currency risk** | Foreign‑exchange exposure (≈ 28 % of raw‑material purchases imported, ≈ 24 % of revenue from exports). The group hedges about 60 % of its net exposure, but large currency swings can still affect profit. |
+| **Customer concentration** | The five largest customers account for 31 % of revenue; loss of a single large customer (e.g., the retail customer in logistics) can materially impact a segment. |
+| **Regulatory / environmental risk** | Stricter emission and effluent standards at chemicals plants could require additional capital spending or lead to shutdowns/penalties. |
+| **Execution risk** | Rapid growth in renewable services depends on hiring/training field technicians and maintaining asset availability above contractual thresholds. |
+| **Interest‑rate risk** | About 55 % of borrowings carry floating rates; a 100‑basis‑point rise in rates would increase finance costs by ~15 crore. |
+| **Supply‑chain risk** | Potential disruptions in the supply chain for components and raw materials. |
+| **Cyber‑security risk** | Threats to plant control systems. |
+| **Talent risk** | Attrition in engineering and technical roles. |
+| **Trade‑tariff risk** | Changes in trade tariffs that could affect export markets. |
+
+These are the risks and concerns explicitly listed in the Management Discussion and Analysis.",forced_miss,openai/gpt-oss-20b,4
+4742,487,0,156.39581080002245,"**Profitability trend**
+
+- **EBITDA** rose 16.7 % to ₹1,430 cr, with the margin improving from 16.0 % to 17.0 %.  
+- **Operating profit (EBIT)** increased from ₹840 cr to ₹1,020 cr.  
+- **Finance costs** fell 14.5 % to ₹265 cr, helping profit before tax climb 42.5 % to ₹755 cr.  
+- **Profit after tax** jumped 41.5 % to ₹566 cr, lifting the net‑profit margin from 5.2 % to 6.7 %.  
+- **Return on capital employed** improved from 13.1 % to 16.4 %, and **return on equity** rose from 11.8 % to 15.2 %.  
+
+Overall, the group’s profitability has been on an upward trajectory, driven mainly by higher margins in the Industrial Automation and Renewable Energy Services segments and by a sharp reduction in interest costs. The only segment that saw a decline in profitability was Specialty Chemicals.",forced_miss,openai/gpt-oss-20b,5
+4745,800,0,1.3194646000047214,,forced_miss,openai/gpt-oss-20b,6
+4742,800,0,38.85812500002794,,forced_miss,openai/gpt-oss-20b,7
+4741,800,0,39.660376899992116,"**Strategic initiatives and future plans outlined in the document**
+
+| Area | Initiative / Plan | Key details |
+|------|-------------------|-------------|
+| **Capital expenditure (FY 2027)** | • Total CAPEX ≈ ₹800 cr<br>• 40 % to new automation capacity (e.g., Pune assembly line)<br>• 25 % to renewable‑services equipment & digital monitoring<br>• 20 % to restructure chemicals capacity toward higher‑margin specialty grades<br>• 15 % to warehouse automation | • Supports expansion into medical‑device and semiconductor automation markets<br>• Enables battery‑storage O&M contracts in renewables |
+| **Automation expansion** | • Add automation to medical‑device and semiconductor equipment markets<br>• Launch new Pune automation line (35 % robotics output lift from Q2 FY 2027)<br>• Automate three additional warehouses to push utilization > 90 % | • Improves margin (target > 20 %) and order‑book coverage |
+| **Renewable Energy Services** | • Add battery‑storage operations & maintenance to the service portfolio (starting 2nd half FY 2027)<br>• Grow managed portfolio to > 9 GW (from ",forced_miss,openai/gpt-oss-20b,8
+4744,196,0,40.3646242999821,"**Best‑performing segments**  
+- **Industrial Automation** – revenue rose 16.3 % and EBITDA margin improved to 20.3 %.  
+- **Renewable Energy Services** – revenue grew 26.2 % and EBITDA margin increased to 18.0 %.  
+
+**Worst‑performing segment**  
+- **Specialty Chemicals** – revenue fell 2.2 % and EBITDA margin dropped to 12.6 %.",forced_miss,openai/gpt-oss-20b,9
+4744,372,0,36.47810309997294,"Revenue rose 10.1 percent to ₹8,420 crore, while EBITDA climbed 16.7 percent to ₹1,430 crore, lifting the margin to 17.0 percent and profit after tax up 41.5 percent to ₹566 crore. Free cash flow surged to ₹540 crore, and net debt fell by ₹790 crore to ₹1,950 crore, improving the net debt‑to‑EBITDA ratio to 1.36×. These gains reflect stronger margins in automation and renewables, lower finance costs, and disciplined working‑capital management.",forced_miss,openai/gpt-oss-20b,10
+5234,66,0,0.8386196999927051,"According to Section 2 (Revenue Performance) of the document, the group's main sources of revenue are:
+
+*   The sale of automation equipment and systems
+*   The sale of specialty chemical products
+*   Recurring operations and maintenance services for solar and wind assets
+*   Fees from warehousing and transport services",no_cache_model,qwen/qwen3.8-27b,1
+5233,45,0,28.899567099986598,"Total revenue for FY2026 was 8,420 crore, compared with 7,650 crore in FY2025, representing an increase of 10.1 percent.",no_cache_model,qwen/qwen3.8-27b,2
+5230,90,0,44.06418180000037,"Based on the document, the biggest operating expenses are:
+
+1.  **Raw materials** (3,790 crore)
+2.  **Other operating expenses** (1,940 crore)
+3.  **Employee costs** (1,260 crore)
+
+The document explicitly states in Section 4: ""The biggest operating expense overall is raw materials, followed by other operating expenses and employee costs.""",no_cache_model,qwen/qwen3.8-27b,3
+5229,314,0,44.415608300012536,"Based on Section 8 (""RISKS AND CONCERNS"") of the document, Meridian Industrial Holdings Limited identifies the following risks:
+
+*   **Raw material price volatility:** This is identified as the most significant risk. Specialty chemicals feedstock is linked to crude oil, and sharp price rises can compress margins faster than the group can pass costs on to customers.
+*   **Foreign exchange risk:** Approximately 28 percent of raw material purchases are imported, while 24 percent of revenue comes from exports. Although the group hedges roughly 60 percent of its net exposure, large currency swings can still affect profit.
+*   **Customer concentration:** The five largest customers contributed 31 percent of revenue. The loss of a large retail customer in the logistics segment demonstrated how a single departure can impact a segment.
+*   **Regulatory and environmental risk:** This is material in the chemicals segment. Stricter emission and effluent standards could require additional capital spending, and compliance failures could lead to plant shutdowns or penalties.
+*   **Execution risk:** This exists in renewable services, where fast growth depends on hiring and training field technicians and maintaining asset availability above contractual thresholds.
+*   **Interest rate risk:** While this risk has fallen due to lower debt, approximately 55 percent of borrowings carry floating rates.
+*   **Other risks:** The document also lists supply chain disruption, cyber security threats to plant control systems, talent attrition in engineering roles, and changes in trade tariffs that could affect export markets.",no_cache_model,qwen/qwen3.8-27b,4
+5232,392,0,44.613489100011066,"Based on the document, the profitability trend for FY2026 is characterized by **strong improvement** across key metrics, driven by higher margins in specific segments and lower interest costs.
+
+Key aspects of the profitability trend include:
+
+*   **EBITDA Growth:** EBITDA increased by **16.7 percent** to **1,430 crore** (from 1,225 crore in FY2025). The EBITDA margin improved to **17.0 percent** from 16.0 percent.
+*   **Quarterly Margin Improvement:** The EBITDA margin improved steadily throughout the year, rising from **16.2 percent** in the first quarter to **17.5 percent** in the fourth quarter.
+*   **Net Profit Growth:** Profit after tax rose by **41.5 percent** to **566 crore** (from 400 crore). The net profit margin improved to **6.7 percent** from 5.2 percent.
+*   **Return Metrics:** Return on capital employed (ROCE) improved to **16.4 percent** from 13.1 percent, and return on equity (ROE) improved to **15.2 percent** from 11.8 percent.
+*   **Drivers:** The document attributes this strong improvement to two main factors:
+    1.  Higher margins in the **Industrial Automation** and **Renewable Energy Services** segments.
+    2.  Sharply lower interest costs (finance costs fell 14.5 percent).
+*   **Segment Variation:** While overall profitability improved, **Specialty Chemicals** was the only segment where profitability declined, with its EBITDA margin dropping from 15.4 percent to 12.6 percent due to weak pricing and higher feedstock costs.",no_cache_model,qwen/qwen3.8-27b,5
+5233,413,0,1.5252163999830373,"Based on Section 6 (""Cash Flow and Liquidity"") of the document, here is the information regarding cash flow and liquidity for Meridian Industrial Holdings Limited in FY2026:
+
+**Cash Flow Metrics**
+*   **Operating Cash Flow:** Cash generated from operating activities was **1,180 crore**, an increase from 905 crore in FY2025. This improvement was aided by working capital discipline, specifically:
+    *   Receivable days improved to **68 days** (from 74 days).
+    *   Inventory days improved to **52 days** (from 57 days).
+*   **Capital Expenditure (CapEx):** Total CapEx was **640 crore** (down from 720 crore in FY2025). Spending was directed mainly to the new automation assembly line, warehouse automation, and environmental upgrades at chemicals plants.
+*   **Free Cash Flow (FCF):** Defined as operating cash flow less capital expenditure, FCF was **540 crore**, a significant increase from 185 crore in the previous year.
+
+**Other Cash Flows and Liquidity Position**
+*   **Inflows:** The group received **350 crore** from the sale of a non-core property and the divestment of a minority investment.
+*   **Outflows:** Cash outflows included **530 crore** for net debt repayment and **100 crore** for dividends.
+*   **Year-End Cash:** Cash and cash equivalents at year end were **780 crore**, compared with 520 crore at the start of the year.
+*   **Undrawn Facilities:** The group has **1,150 crore** in undrawn, sanctioned working capital lines.
+
+**Management Assessment**
+Management states that liquidity is comfortable and believes that internal cash flows and available facilities are sufficient to fund planned capital expenditure and debt service for the next twelve months.",no_cache_model,qwen/qwen3.8-27b,6
+5230,512,0,29.804553399968427,"Based on the document provided, the following debt and financing obligations are mentioned for Meridian Industrial Holdings Limited:
+
+**Gross Borrowings**
+*   **Total Gross Borrowings:** ₹2,730 crore (down from ₹3,260 crore in the previous year).
+*   **Composition:**
+    *   Term loans: ₹1,850 crore
+    *   Non-convertible debentures (NCDs): ₹600 crore
+    *   Working capital borrowings: ₹280 crore
+
+**Specific Debt Terms**
+*   **Non-convertible Debentures:** Carry a coupon rate of 8.6% and mature in September 2028.
+*   **Weighted Average Cost of Borrowing:** 8.8% (down from 9.4% in the previous year).
+*   **Interest Rate Structure:** Approximately 55% of borrowings (roughly ₹1,500 crore) carry floating rates.
+
+**Net Debt Metrics**
+*   **Net Debt:** ₹1,950 crore (calculated as gross borrowings of ₹2,730 crore less cash and cash equivalents of ₹780 crore).
+*   **Net Debt to EBITDA:** 1.36 times (improved from 2.24 times in the previous year).
+*   **Interest Cover:** 5.4 times (EBITDA divided by finance costs).
+
+**Other Financing-Related Items**
+*   **Undrawn Facilities:** The group has ₹1,150 crore in undrawn, sanctioned working capital lines.
+*   **Bank Guarantees:** ₹340 crore issued in the ordinary course of business, mainly for contract performance.
+*   **Contingent Liabilities:** ₹295 crore not provided for, which includes:
+    *   ₹210 crore in disputed indirect tax demands.
+    *   ₹85 crore in claims relating to environmental clearances at a chemicals site.
+*   **Capital Commitments:** ₹310 crore in contracts for capital expenditure not yet carried out (mostly for the Pune automation line and Vadodara solvent recovery project).
+*   **Dividends:** A proposed dividend of ₹1.50 per share for FY2026 (total dividend outflow mentioned in cash flow section is ₹100 crore).",no_cache_model,qwen/qwen3.8-27b,7
+5231,539,0,43.95824339997489,"Based on the document, the strategic initiatives and future plans for Meridian Industrial Holdings Limited are detailed in Section 9 (Strategy and Outlook) and Section 18 (Segment Outlook for FY2027).
+
+**Capital Expenditure Plan for FY2027**
+Management plans capital expenditure of approximately 800 crore, allocated as follows:
+*   **40%** to automation capacity.
+*   **25%** to renewable service equipment and digital monitoring.
+*   **20%** to restructuring chemicals capacity toward specialty grades.
+*   **15%** to warehouse automation.
+
+**Key Strategic Initiatives**
+*   **Industrial Automation:** Expanding into the medical devices and semiconductor equipment markets.
+*   **Renewable Energy Services:** Adding battery storage operations and maintenance to the service offering.
+*   **Specialty Chemicals:** Exiting commodity chemical grades that earn below a 10 percent EBITDA margin.
+*   **Logistics and Warehousing:** Automating three more warehouses to raise utilization above 90 percent.
+
+**Financial and Operational Targets**
+*   **Revenue Growth:** Expected to be 12 to 14 percent in FY2027.
+*   **EBITDA Margin:** Expected to be above 18 percent in FY2027.
+*   **Debt Reduction:** Net debt to EBITDA ratio targeted to be below 1.0 times by the end of FY2028.
+*   **Dividend Policy:** Intends to keep the dividend payout at about 25 to 30 percent of profit after tax, while prioritizing debt reduction and growth investment.
+
+**Segment-Specific Outlooks for FY2027**
+*   **Industrial Automation:** Revenue growth of 16 to 18 percent, supported by the order book and the new Pune line; margin expected to stay above 20 percent.
+*   **Renewable Energy Services:** Revenue growth of 22 to 25 percent as the managed portfolio crosses 9 gigawatts; battery storage contracts expected to start contributing in the second half.
+*   **Specialty Chemicals:** Revenue expected to be flat to slightly higher; segment margin expected to recover to 14 percent by the end of FY2027.
+*   **Logistics and Warehousing:** Revenue growth of 6 to 8 percent; warehouse utilization expected to improve above 90 percent; a new anchor customer in the pharmaceutical sector is expected to replace some volumes lost from a retail customer.",no_cache_model,qwen/qwen3.8-27b,8
+5233,301,0,43.529119699960575,"Based on the document, the performance of the business segments is as follows:
+
+**Best Performing Segments:**
+*   **Renewable Energy Services:** This was the **fastest growing segment**, with revenue rising 26.2 percent to 1,640. Its EBITDA margin also improved to 18.0 percent from 15.8 percent.
+*   **Industrial Automation:** This was the **largest segment** and a top performer, with revenue rising 16.3 percent to 3,350. Its EBITDA margin improved to 20.3 percent from 18.8 percent.
+
+The document explicitly states in Section 10 that ""Industrial Automation and Renewable Energy Services were the best performing segments.""
+
+**Worst Performing Segment:**
+*   **Specialty Chemicals:** This was the **weakest segment**. Revenue declined 2.2 percent to 2,260, and the EBITDA margin dropped to 12.6 percent from 15.4 percent. The document notes that ""Chemicals was the only segment where profitability declined.""
+
+**Other Segment:**
+*   **Logistics and Warehousing:** This segment was **broadly flat** on revenue (up 0.9 percent to 1,170) but improved on margin (rising to 14.5 percent from 10.8 percent).",no_cache_model,qwen/qwen3.8-27b,9
+5233,115,0,43.25454519997584,"Revenue grew 10.1 percent to 8,420 crore, while EBITDA rose 16.7 percent to 1,430 crore with an improved margin of 17.0 percent. Profit after tax increased 41.5 percent to 566 crore, and free cash flow nearly tripled to 540 crore. Net debt decreased by 790 crore to 1,950 crore, improving the net debt to EBITDA ratio to 1.36 times.",no_cache_model,qwen/qwen3.8-27b,10
