@@ -4,8 +4,14 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, DynamicCache
+
+try:
+    import torch
+    from transformers import AutoModelForCausalLM, AutoTokenizer, DynamicCache
+
+    HAS_LOCAL_MODEL = True
+except ImportError:
+    HAS_LOCAL_MODEL = False
 
 MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
 INSTRUCTIONS = (
@@ -19,7 +25,7 @@ st.title("PromptCacheLens")
 st.caption("Provider prompt caching (Groq) vs. our own KV prefix cache (local CPU)")
 
 
-# ---------- local model helpers ----------
+# ---------- local model helpers (only used when torch is installed) ----------
 def timed_generate(model, ids, cache_template=None):
     start = time.perf_counter()
     cache = copy.deepcopy(cache_template) if cache_template is not None else None
@@ -137,6 +143,14 @@ with tab_results:
 
 # ---------- Live demo tab ----------
 with tab_demo:
+    if not HAS_LOCAL_MODEL:
+        st.info(
+            "The live demo needs PyTorch and a local model download, so it is turned off "
+            "in this hosted version. Run it locally with `pip install -r requirements-local.txt` "
+            "and `streamlit run app.py`."
+        )
+        st.stop()
+
     st.write(
         "Ask a question about data/document.txt. The app compares reprocessing the whole "
         "document against reusing a saved KV cache of it (prefill time, plus one generated token)."
